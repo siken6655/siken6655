@@ -82,13 +82,7 @@
 <!-- Contact Section -->
 
 <!-- Achievement Corner -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--Hacktober Fest-->
-<h3 align="center"><b>🏆Open Source Contribution : Hacktoberfest 2023 Participation Badges 🏆</b> </h2>
-<div align="center"><b>🌱 Passed All Four Level of Hacktoberfest 2023 🌱</b> </div><br>
-<div align="center">
-<a herf = "https://holopin.io/@sumonta056"><img src="https://github.com/Sumonta056/sumonta056/assets/61287791/f97aaaa3-d63f-4ef9-9d63-7151a3a5e0af" width="70%" ></a>
-</div>
+
  <!--Hacktober Fest-->
  <!--Google Foobar -->
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
