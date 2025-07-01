@@ -16,11 +16,21 @@
  <!-- Heading and BIO -->
 <h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Bibek Sabat </h1>
 
-<div align="center" width="150px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iclipter&label=Profile%20views&color=0e75b6&style=flat" alt="iclipter" /> </p>
 
-I am currently an <b>Associate Software Engineer I </b> at **[Cefalo Bangladesh Ltd](https://www.linkedin.com/company/cefalo-as/posts/?feedView=all)**. <br />
-I am a content writer, **[Learn & Code Newsletter](https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512)** (400+ Subscribers)  <br />
-Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>. <br />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iclipter" alt="iclipter" /></a> </p>
+
+- 🔭 I’m currently working on **Currently learning to integrate advanced AI technologies into my projects and aiming to become more proficient in modern web application development.**
+
+- 👯 I’m looking to collaborate on: **Fullstack projects**
+
+- 💬 Ask me about: **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**
+
+- ⚡ Fun fact: **U name it i'll master it**
+
+
+<p align="left">
+</p>
 
 </div>
 
