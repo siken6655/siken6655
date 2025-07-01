@@ -213,7 +213,7 @@
 <!-- Instagram + Twitter FollowLinks -->
 <p align='center'>
 <a href="https://twitter.com/bibeksabat" target="blank"><img src="https://i.postimg.cc/4NG4KtGt/Add-a-subheading-3-removebg-preview.png" width="35%" /></a> 
-<a href="https://www.instagram.com/bibeksabat/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png" width="35%" /></a> 
+<a href="https://www.instagram.com/orewa.kai/" target="blank"><img src="https://i.postimg.cc/02GGTLPS/Add-a-subheading-5-removebg-preview.png" width="35%" /></a> 
 </p>
 <!-- Instagram + Twitter FollowLinks -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
