@@ -293,8 +293,8 @@
 
 <h4 align="center"> ✨ Most Stars Repositories</h4>
 
-![](https://m3-markdown-badges.vercel.app/stars/1/1/sumonta056/GitHub-Tutorial)
-![](https://m3-markdown-badges.vercel.app/stars/3/2/sumonta056/SWE-3-2-Semester-Resources)
+![](https://m3-markdown-badges.vercel.app/stars/1/1//ICLIPTER/Fullstack-Netflix-Clone-with-AI-Recommendations)
+![](https://m3-markdown-badges.vercel.app/stars/3/2//ICLIPTER/E-comm-Website)
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Tutorial&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/GitHub-Tutorial)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SWE-3-2-Semester-Resources&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/SWE-3-2-Semester-Resources)
