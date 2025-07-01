@@ -94,7 +94,6 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <!-- Achievement Corner -->
 
-
  <!-- Banners 2nd Phase -->
 <p align='center'>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
@@ -105,7 +104,7 @@
 
  <!-- Typewriting Introduction -->
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+a+Software+Engineer+Student;I+am+also+a+Software+Developer+;Love+to+take+Photos+and+write+blogs)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+a+Software+Engineer+Student;I+am+also+a+Software+Developer+;Love+Anstronomy+Drawing+Theroies+and+Mythologies)](https://git.io/typing-svg)
 
  <!-- Typewriting Introduction -->
 
@@ -117,7 +116,7 @@
 
  <!-- About Me -->
 <p align='left'>
-- 🔭 <b>Software Engineering</b> graduated from <b>SUST</b><br>
+- 🔭 <b>Software Engineering</b> graduated from <b>Sambalpur University</b><br>
 - 🌱 I’m currently exploring in depth full stack webdevelopment 😁<br>
 - ✨ Maintaining a Newsletter & Youtube Channel : Learn & Code <br>
 - 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
