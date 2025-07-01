@@ -20,7 +20,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iclipter" alt="iclipter" /></a> </p>
 
-- 🔭 I’m currently working on **Currently learning to integrate advanced AI technologies into my projects and aiming to become more proficient in modern web application development.**
+- 🔭 ** I’m Currently learning to integrate advanced AI technologies into my projects and aiming to become more proficient in modern web application development.**
 
 - 👯 I’m looking to collaborate on: **Fullstack projects**
 
