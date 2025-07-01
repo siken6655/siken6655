@@ -212,7 +212,7 @@
 </div>
 <!-- Instagram + Twitter FollowLinks -->
 <p align='center'>
-<a href="https://twitter.com/bibeksabat" target="blank"><img src="https://i.postimg.cc/Y0kRF88T/Add-a-subheading-2-removebg-preview.png" width="35%" /></a> 
+<a href="https://twitter.com/bibeksabat" target="blank"><img src="https://i.postimg.cc/Y0kRF88T/Add-a-subheading-2-removebg-preview.png" width="60%" /></a> 
 <a href="https://www.instagram.com/bibeksabat/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png" width="35%" /></a> 
 </p>
 <!-- Instagram + Twitter FollowLinks -->
