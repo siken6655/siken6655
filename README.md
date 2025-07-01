@@ -90,13 +90,6 @@
 <a herf = "https://holopin.io/@sumonta056"><img src="https://github.com/Sumonta056/sumonta056/assets/61287791/f97aaaa3-d63f-4ef9-9d63-7151a3a5e0af" width="70%" ></a>
 </div>
  <!--Hacktober Fest-->
-<hr>
- <!--Google Foobar -->
-<h3 align="center"><b>🏆Got Invitation From Google Foobar : Google Secret Hiring Challenge.🏆</b> </h2>
-<div align="center"><b>🌱 Successfully Passed Level Two and Continuing... 🌱</b> </div><br>
-<div align="center">
-<a herf = "https://holopin.io/@sumonta056"><img src="https://github.com/Sumonta056/sumonta056/assets/61287791/9680d192-ec4f-46db-bd13-7f03a57005e3" width="70%" ></a>
-</div>
  <!--Google Foobar -->
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <!-- Achievement Corner -->
