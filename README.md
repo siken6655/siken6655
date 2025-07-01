@@ -104,7 +104,7 @@
 
  <!-- Typewriting Introduction -->
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I+am+also+a+Software+Developer+;Love+Anstronomy+Drawing+Theroies+and+Mythologies)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I+am+also+a+Software+Developer+;Love+Anstronomy+Drawing+Music)](https://git.io/typing-svg)
 
  <!-- Typewriting Introduction -->
 
@@ -118,10 +118,10 @@
 <p align='left'>
 - 🔭 <b>Software Engineering</b> graduated from <b>Sambalpur University</b><br>
 - 🌱 I’m currently exploring in depth full stack webdevelopment 😁<br>
-- ✨ Maintaining a Newsletter & Youtube Channel : Learn & Code <br>
+- ✨ Maintaining a wannabe Astrophysicist Mindset <br>
 - 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
-- 🥅 <i><b>2025 Goals</b></i>: Switch to a new Tech Language <br>
-- ⚡ Interests : How chatgpt going to take my job !😏<br>
+- 🥅 <i><b>2025 Goals</b></i>: Switch to a new Tech Language<br>
+- ⚡ Interests : Seeing how AI going to replace me !😏<br>
 </p>
  <!-- About Me -->
 
