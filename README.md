@@ -212,8 +212,8 @@
 </div>
 <!-- Instagram + Twitter FollowLinks -->
 <p align='center'>
-<a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://i.postimg.cc/zG8t3bpb/button-1.png" width="35%" /></a> 
-<a href="https://www.instagram.com/_sumonta_saha_/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png" width="35%" /></a> 
+<a href="https://twitter.com/bibeksabat" target="blank"><img src="https://i.postimg.cc/zG8t3bpb/button-1.png" width="35%" /></a> 
+<a href="https://www.instagram.com/bibeksabat/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png" width="35%" /></a> 
 </p>
 <!-- Instagram + Twitter FollowLinks -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
