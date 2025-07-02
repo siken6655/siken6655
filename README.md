@@ -226,20 +226,7 @@
 <a href = "https://dev.to/bibeksabat" >Dev.to </a>, 
 <a href = "https://www.linkedin.com/in/bibeksabat" >Linkedin</a>]</h2>
 
-<table border="0">
- <tr valign="top">
-  <td width="58%">
-   <div align='center'>
-    <a href="https://medium.com/@sumontasaha80">
-      <img src="https://github.com/user-attachments/assets/e74d390a-6914-4124-9ae6-4be4645b2e79" width="100%" alt="Blogs Loading"/>
-    </a>
-   </div>
-  </td>
-  <td width="30%">
-  <a href="https://app.daily.dev/sumontasahamridul"><img src="https://api.daily.dev/devcards/v2/oy53egVldSfhhKhkvD69g.png?type=default&r=8q5" width="356" alt="Sumonta Saha (Mridul)'s Dev Card"/></a>
-  </td>
- </tr>
-</table>
+
 
 |                          **Blog Name**                           | **Views** |                                                                       **Link**                                                                        |
 | :--------------------------------------------------------------: | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
