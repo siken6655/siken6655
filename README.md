@@ -222,9 +222,9 @@
 <!-- Blog Section -->
 <div align="center">
 <h2>✍🏻 Read My Blogs on [ 
-<a href = "https://medium.com/@sumontasaha80" >Medium </a>, 
-<a href = "https://dev.to/sumonta056" >Dev.to </a>, 
-<a href = "https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/" >Linkedin</a>]</h2>
+<a href = "https://medium.com/@orewa.kai" >Medium </a>, 
+<a href = "https://dev.to/bibeksabat" >Dev.to </a>, 
+<a href = "https://www.linkedin.com/in/bibeksabat" >Linkedin</a>]</h2>
 
 <table border="0">
  <tr valign="top">
