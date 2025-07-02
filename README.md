@@ -230,9 +230,9 @@
 
 |                          **Blog Name**                           | **Views** |                                                                       **Link**                                                                        |
 | :--------------------------------------------------------------: | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  SOLID Principles: The Key to Writing Clean & High-Quality Code  |  👁️ 518+  |               **[👉 Medium](https://medium.com/nerd-for-tech/solid-principles-the-key-to-writing-clean-high-quality-code-9a8f88ea0a8)**               |
-|         Basic Things About HTTP Cookies and How It Works         | 👁️ 1800+  |                            **[👉 Medium](https://sumontasaha80.medium.com/basic-things-about-http-cookies-1c1290f31f7b)**                             |
-|                    The Factory Design Pattern                    | 👁️ 1400+  |                                                  **[👉 Medium](https://medium.com/p/ba150444c8a7)**                                                   |
+|  The Future of Web Development with AI & Automation  |  👁️ 518+  |               **[👉 Medium](https://medium.com/@orewa.kai/the-future-of-web-development-with-ai-automation-69714d6115a0)**               |
+|         How to Build an AI App in a Weekend (Even If You Can’t Code)         | 👁️ 1800+  |                            **[👉 Medium](https://medium.com/@orewa.kai/how-to-build-an-ai-app-in-a-weekend-even-if-you-cant-code-cda2bfd3d28a)**                             |
+|         Before the Beginning: A Hypothesis on Precosmic Civilizations                    | 👁️ 1400+  |                                                  **[👉 Medium](https://medium.com/@orewa.kai/before-the-beginning-a-hypothesis-on-precosmic-civilizations-and-the-war-induced-big-bang-203b99c718bf)**                                                   |
 |      First Hackathon Experience and Some Tips for Beginners      |  👁️ 200+  |                                                  **[👉 Medium](https://medium.com/p/945063ae8e66)**                                                   |
 | 17 Must-Try VS Code Extensions for Productivity and Time Savings |  👁️ 300+  | **[👉 Dev.to](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1)** |
 
