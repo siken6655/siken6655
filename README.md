@@ -207,7 +207,7 @@
 
 <!-- Photography Section -->
 <div align="center">
-<h3> 📱 Check Out My Photography's <a href = "https://unsplash.com/@sumonta056" >@unplash</a></h2>
+<h3> 📱 Check Out My Blogs's <a href = "https://bibek-s-portfolio-jade.vercel.app/blog" >here</a></h2>
 <img src="images/Photography/3.gif" width="80%" >
 </div>
 <!-- Instagram + Twitter FollowLinks -->
