@@ -1,4 +1,5 @@
-<!-- Banner & Links -->
+
+
 
 <div align="center">
 <a href="https://i.postimg.cc/Yq8DWwHz/Untitled-design.png"><img align='center' src= "https://i.postimg.cc/Yq8DWwHz/Untitled-design.png" width="80%"></a> 
@@ -8,10 +9,10 @@
 
 <div align="center">
 <a href = "https://drive.google.com/file/d/1YJaPvQYLbrgMC00XME4DI3bvT4wmUjRR/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Bibek-blue" width="200" height="35"></a>
-<a href = "https://bibek-s-portfolio-jade.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220" height="35"></a>
+<a href = "https://bibek-s-portfolio-jade.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220" height="36"></a>
 </div>
 
- <!-- Banner & Links -->
+ 
 
  <!-- Heading and BIO -->
 <h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Bibek Sabat </h1>
@@ -20,7 +21,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=51C1F7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+%7C+React+%7C+Node.js;Building+Innovative+Web+Experiences" alt="Typing SVG" />
 
 <p align='center'>
-<img align='center' src= "https://giffiles.alphacoders.com/221/221575.gif" width="300px"  >
+<img align='center' src= "https://giffiles.alphacoders.com/221/221575.gif" width="600px"  >
 </p>
  
 - 🔭  I’m Currently learning **to integrate advanced AI technologies into my projects and aiming to become more proficient in modern web application development.**
@@ -78,16 +79,8 @@
 <a href="https://stackoverflow.com/users/30944368/bibek-sabat" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="42" height="30" alt="linktree logo"  /></a>
 <a href="https://leetcode.com/u/BibekSabat/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo"  /></a>
 
-
-
-
 </div>
-<!-- Contact Section -->
 
-<!-- Achievement Corner -->
-
- <!--Hacktober Fest-->
- <!--Google Foobar -->
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <!-- Achievement Corner -->
 
@@ -113,12 +106,12 @@
 
  <!-- About Me -->
 <p align='left'>
-- 🔭 <b>Software Engineering</b> graduated from <b>Sambalpur University</b><br>
+- 🔭 <b>Software Engineering</b> graduated from <b>SU</b><br>
 - 🌱 I’m currently exploring in depth full stack webdevelopment 😁<br>
-- ✨ Maintaining a wannabe Astrophysicist Mindset <br>
+- ✨ Maintaining a Blog & Astrophysicist mindset : Learn & Code <br>
 - 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
-- 🥅 <i><b>2025 Goals</b></i>: Switch to a new Tech Language<br>
-- ⚡ Interests : Seeing how AI going to replace me !😏<br>
+- 🥅 <i><b>2025 Goals</b></i>: Switch to a new Tech Language <br>
+- 🤖 Interests: Watching how AI evolves to replace me !😏<br>
 </p>
  <!-- About Me -->
 
@@ -238,7 +231,7 @@
 |         How to Build an AI App in a Weekend (Even If You Can’t Code)         | 👁️ 1800+  |                            **[👉 Medium](https://medium.com/@orewa.kai/how-to-build-an-ai-app-in-a-weekend-even-if-you-cant-code-cda2bfd3d28a)**                             |
 |         Before the Beginning: A Hypothesis on Precosmic Civilizations                    | 👁️ 1400+  |                                                  **[👉 Medium](https://medium.com/@orewa.kai/before-the-beginning-a-hypothesis-on-precosmic-civilizations-and-the-war-induced-big-bang-203b99c718bf)**                                                   |
 |      OpenAI Tools You’re Not Using     |  👁️ 200+  |                                                  **[👉 Medium](https://medium.com/@orewa.kai/openai-tools-youre-not-using-but-should-be-2823b46c59e3)**                                                   |
-| 17 Must-Try VS Code Extensions for Productivity and Time Savings |  👁️ 300+  | **[👉 Dev.to](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1)** |
+| AI and Ethics: How We Avoid Building the Wrong Future |  👁️ 300+  | **[👉 Dev.to](https://medium.com/@orewa.kai/ai-and-ethics-how-we-avoid-building-the-wrong-future-37e376793eb8)** |
 
 <!-- BLOG-POST-LIST:END -->
 
