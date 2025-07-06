@@ -1,6 +1,4 @@
 
-
-
 <div align="center">
 <a href="https://i.postimg.cc/Yq8DWwHz/Untitled-design.png"><img align='center' src= "https://i.postimg.cc/Yq8DWwHz/Untitled-design.png" width="80%"></a> 
 </div>
@@ -9,7 +7,8 @@
 
 <div align="center">
 <a href = "https://drive.google.com/file/d/1YJaPvQYLbrgMC00XME4DI3bvT4wmUjRR/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Bibek-blue" width="200" height="35"></a>
-<a href = "https://bibek-s-portfolio-jade.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220" height="36"></a>
+<a href = "https://medium.com/@orewa.kai" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="230" height="35"></a>
+<a href = "https://bibek-s-portfolio-jade.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220" height="35"></a>
 </div>
 
  
