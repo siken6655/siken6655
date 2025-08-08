@@ -5,7 +5,7 @@
     <p>
         <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=ICLIPTER&style=for-the-badge&color=1C8C8C">
         <a href="https://bibek-s-portfolio-jade.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
   </a>
         </a>
     </p>
