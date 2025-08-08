@@ -210,6 +210,12 @@
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 <img align="left" src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif"  width="160px" height="160px">
 </p>
+<div>
+    <p align ="center"> 
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICLIPTER&theme=2077">
+    </p>
+</div>
 
 
 <!-- Contribution Statistics and Visuals -->
