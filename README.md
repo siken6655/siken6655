@@ -1,4 +1,3 @@
-
 <div align="center">
 <a href="https://i.postimg.cc/Yq8DWwHz/Untitled-design.png"><img align='center' src= "https://i.postimg.cc/Yq8DWwHz/Untitled-design.png" width="80%"></a> 
 </div>
@@ -6,11 +5,21 @@
 ![](https://hit.yhype.me/github/profile?account_id=61287791)
 
 <div align="center">
-<a href = "https://drive.google.com/file/d/1YJaPvQYLbrgMC00XME4DI3bvT4wmUjRR/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Bibek-blue" width="220" height="35"></a>
-<a href = "https://medium.com/@orewa.kai" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="220" height="35"></a>
-<a href = "https://bibek-s-portfolio-jade.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220" height="35"></a>
+  <a href="https://drive.google.com/file/d/1YJaPvQYLbrgMC00XME4DI3bvT4wmUjRR/view?usp=sharing">
+    <img src="https://img.shields.io/badge/CV-%40Bibek-blue?style=for-the-badge" />
+  </a>
+  <a href="https://bibek-s-portfolio-jade.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge" />
+  </a>
+  <a href="https://medium.com/@orewa.kai">
+    <img src="https://img.shields.io/badge/Blogs-Medium-green?style=for-the-badge" />
+  </a>
 </div>
 
+
+
+
+ 
 
  <!-- Heading and BIO -->
 <h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Bibek Sabat </h1>
@@ -59,7 +68,7 @@
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iclipter&theme=moltack"  />
 </p>
 
-  <!-- Github Profile Summary Cards -->
+
 
 <!-- Contact Section -->
 
@@ -94,7 +103,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I+am+also+a+Software+Developer+;Love+Anstronomy+Drawing+Music)](https://git.io/typing-svg)
 
- <!-- Typewriting Introduction -->
+
 
  <!-- Banners 3rd Phase : About Me -->
 <p align = 'right'>
@@ -187,8 +196,10 @@
 <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iclipter&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
- <img align="left" src="https://media.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif"  width="160px" height="160px">
+<img align="left" src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif"  width="160px" height="160px">
 </p>
+
+
 <!-- Contribution Statistics and Visuals -->
 
 <!-- Activity Graph -->
@@ -205,6 +216,9 @@
 <h3> 📱 Check Out My Blogs's <a href = "https://bibek-s-portfolio-jade.vercel.app/blog" >here</a></h2>
 <img src="images/Photography/3.gif" width="80%" >
 </div>
+<p align='center'>
+<img align='center' src= "https://c.tenor.com/-uumzerEK8EAAAAd/tenor.gif" width="300px"  >
+</p>
 <!-- Instagram + Twitter FollowLinks -->
 <p align='center'>
 <a href="https://twitter.com/bibeksabat" target="blank"><img src="https://i.postimg.cc/4NG4KtGt/Add-a-subheading-3-removebg-preview.png" width="35%" /></a> 
@@ -229,7 +243,7 @@
 |         How to Build an AI App in a Weekend (Even If You Can’t Code)         | 👁️ 1800+  |                            **[👉 Medium](https://medium.com/@orewa.kai/how-to-build-an-ai-app-in-a-weekend-even-if-you-cant-code-cda2bfd3d28a)**                             |
 |         Before the Beginning: A Hypothesis on Precosmic Civilizations                    | 👁️ 1400+  |                                                  **[👉 Medium](https://medium.com/@orewa.kai/before-the-beginning-a-hypothesis-on-precosmic-civilizations-and-the-war-induced-big-bang-203b99c718bf)**                                                   |
 |      OpenAI Tools You’re Not Using     |  👁️ 200+  |                                                  **[👉 Medium](https://medium.com/@orewa.kai/openai-tools-youre-not-using-but-should-be-2823b46c59e3)**                                                   |
-| AI and Ethics: How We Avoid Building the Wrong Future |  👁️ 300+  | **[👉 Dev.to](https://medium.com/@orewa.kai/ai-and-ethics-how-we-avoid-building-the-wrong-future-37e376793eb8)** |
+| AI and Ethics: How We Avoid Building the Wrong Future |  👁️ 300+  | **[👉 Medium](https://medium.com/@orewa.kai/ai-and-ethics-how-we-avoid-building-the-wrong-future-37e376793eb8)** |
 
 <!-- BLOG-POST-LIST:END -->
 
