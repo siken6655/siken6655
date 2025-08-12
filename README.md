@@ -69,10 +69,10 @@
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=iclipter&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack" 
        alt="stats graph" 
-       style="width: 45%; height: auto; object-fit: contain;" />
+       style="width: 45%; height: 200px; object-fit: contain;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iclipter&theme=moltack" 
        alt="productive time" 
-       style="width: 45%; height: auto; object-fit: contain;" />
+       style="width: 45%; height: 200px; object-fit: contain;" />
 </div>
  <!-- Github Readme Stats -->
  <!-- Github Commit Stats -->
@@ -229,7 +229,7 @@
 <div>
     <p align ="center"> 
         <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICLIPTER&theme=solarized">
+            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICLIPTER&theme=tokyo-day">
     </p>
 </div>
 
