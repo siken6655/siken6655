@@ -66,13 +66,22 @@
 
 <!-- Github Commit Stats -->
  <!-- Github Readme Stats -->
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=iclipter&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack" 
-       alt="stats graph" 
-       style="width: 45%; height: 200px; object-fit: contain;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iclipter&theme=moltack" 
-       alt="productive time" 
-       style="width: 45%; height: 200px; object-fit: contain;" />
+<div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+  <div style="flex:0 1 45%; max-width:45%; height:200px; display:flex; align-items:center; justify-content:center; overflow:hidden;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=iclipter&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"
+      alt="stats graph"
+      style="max-width:100%; max-height:100%; display:block; object-fit:contain;"
+    />
+  </div>
+
+  <div style="flex:0 1 45%; max-width:45%; height:200px; display:flex; align-items:center; justify-content:center; overflow:hidden;">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iclipter&theme=moltack"
+      alt="productive time"
+      style="max-width:100%; max-height:100%; display:block; object-fit:contain;"
+    />
+  </div>
 </div>
  <!-- Github Readme Stats -->
  <!-- Github Commit Stats -->
