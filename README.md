@@ -66,7 +66,7 @@
 
 <!-- Github Commit Stats -->
  <!-- Github Readme Stats -->
-<div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+<div style=" align:center; display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
   <div style="flex:0 1 45%; max-width:45%; height:200px; display:flex; align-items:center; justify-content:center; overflow:hidden;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=iclipter&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"
