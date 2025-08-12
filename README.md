@@ -66,13 +66,14 @@
 
 <!-- Github Commit Stats -->
  <!-- Github Readme Stats -->
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=iclipter&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack" 
-         style="width: 45%; height: 200px;" alt="stats graph" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iclipter&theme=moltack" 
-         style="width: 45%; height: 200px;" alt="productive time" />
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=iclipter&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack" 
+       alt="stats graph" 
+       style="max-width: 45%; height: auto; object-fit: contain;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iclipter&theme=moltack" 
+       alt="productive time" 
+       style="max-width: 45%; height: auto; object-fit: contain;" />
 </div>
-
  <!-- Github Readme Stats -->
  <!-- Github Commit Stats -->
 
