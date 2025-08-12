@@ -228,7 +228,7 @@
 <div>
     <p align ="center"> 
         <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICLIPTER&theme=2077">
+            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICLIPTER&theme=solarized">
     </p>
 </div>
 
