@@ -1,5 +1,5 @@
 <div href="https://github.com/kawarimidoll/typograssy">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=ENJOY%20DEVELOPMENT!%20"
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=BIBEK%20SABAT!%20"
 </div>
 
 
