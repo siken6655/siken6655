@@ -67,6 +67,7 @@
  <!-- Github Readme Stats -->
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=iclipter&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iclipter&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
 </p>
  <!-- Github Readme Stats -->
  
@@ -76,10 +77,6 @@
 </p>
  
  <!-- Github Commit Stats -->
-
- <!-- Waka Time in Depth Stats -->
-
-  <!-- Waka Time in Depth Stats -->
 
   <!-- Github Profile Summary Cards -->
 <p align="center">
