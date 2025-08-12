@@ -64,30 +64,24 @@
 
  <!-- Profile Views - Waka Time Stats - Followers & Stars -->
 
+<!-- Github Commit Stats -->
  <!-- Github Readme Stats -->
 <div style="display: flex; justify-content: center; gap: 10px;">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iclipter&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack" 
          style="width: 45%; height: 200px;" alt="stats graph" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iclipter&theme=moltack" 
          style="width: 45%; height: 200px;" alt="productive time" />
-    
 </div>
-
-
  <!-- Github Readme Stats -->
- 
- <!-- Github Commit Stats -->
-<p align='center'>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iclipter&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
-</p>
- 
  <!-- Github Commit Stats -->
 
-  <!-- Github Profile Summary Cards -->
+
+<!-- Github Profile Summary Cards -->
 <p align="center">
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iclipter&theme=moltack"  />
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iclipter&theme=moltack"  />
 </p>
+<!-- Github Profile Summary Cards -->
 
 
 
