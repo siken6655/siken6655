@@ -67,9 +67,9 @@
  <!-- Github Readme Stats -->
 <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=iclipter&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack" 
-         style="height: 200px;" alt="stats graph" />
+         style="width: 45%; height: auto;" alt="stats graph" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iclipter&theme=moltack" 
-         style="height: 200px;" alt="productive time" />
+         style="width: 45%; height: auto;" alt="productive time" />
 </div>
  <!-- Github Readme Stats -->
  
