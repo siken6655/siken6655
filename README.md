@@ -220,15 +220,19 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=iclipter&theme=tokyo-day)
 
 <!-- Activity Graph -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Contribution Stack -->
+<!-- Total year Graph -->
 <div>
     <p align ="center"> 
         <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
             <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICLIPTER&theme=2077">
     </p>
 </div>
+
+<!-- Total year Graph -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Contribution Stack -->
+
 
 <!-- Photography Section -->
 <div align="center">
